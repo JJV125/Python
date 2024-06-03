@@ -17,7 +17,7 @@ Welcome to my Python Portfolio! This repository showcases my journey in learning
 
 ## Introduction
 
-I am a passionate data enthusiast with a strong background in SQL and a keen interest in Python programming and data analysis, and artificial intelligence. This portfolio is a collection of my work as I continue to refine my skills and apply them to real-world scenarios. With a solid foundation in SQL and a growing proficiency in Python, I aim to build projects that showcase my ability to analyze data and derive meaningful insights to solve complex problems. My goal is to leverage my expertise in SQL and Python to contribute effectively to data-driven decision-making processes.
+I am a passionate data enthusiast with a strong background in SQL and a keen interest in Python programming and data analysis. This portfolio is a collection of my work as I continue to refine my skills and apply them to real-world scenarios. With a solid foundation in SQL and a growing proficiency in Python, I aim to build projects that showcase my ability to analyze data and derive meaningful insights to solve complex problems. My goal is to leverage my expertise in SQL and Python to contribute effectively to data-driven decision-making processes.
 
 ## Completed Course
 
