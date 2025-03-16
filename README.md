@@ -22,14 +22,16 @@ Through this course, I gained a strong foundation in Python and applied data sci
 
 ## Projects
 
-### Project 1: Title
-
-**Description:** (Add a brief description of the project here once completed)
-
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+### Council Budget Analysis Project
+- **Description:** Analyzed the 2021-2022 council budget to identify spending patterns and budget allocations.
+- **Key Features:**
+  - Data cleaning and preprocessing of budget data.
+  - Exploratory data analysis to uncover insights.
+  - Visualization of budget distribution across departments.
+- **Technologies Used:** Python, Pandas, Matplotlib.
+- **Results:** Identified key areas of expenditure and potential cost-saving opportunities.
+- **Code:** [council_budget_analysis.py](scripts/council_budget_analysis.py)
+- **Data:** [council-budget-21-22.csv](data/council-budget-21-22.csv)
 
 [View Project](link-to-project-1)
 
