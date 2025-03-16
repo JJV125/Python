@@ -2,19 +2,6 @@
 
 Welcome to my Python Portfolio! This repository showcases my journey in learning and applying Python for various data science projects. I have completed the "Python for Applied Data Science and AI" course on Coursera, and I am eager to apply my skills in real-world scenarios. This README will be updated with projects and detailed descriptions as I progress.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Completed Course](#completed-course)
-- [Projects](#projects)
-  - [Project 1: Title](#project-1-title)
-  - [Project 2: Title](#project-2-title)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 I am a passionate data enthusiast with a strong background in SQL and a keen interest in Python programming and data analysis. This portfolio is a collection of my work as I continue to refine my skills and apply them to real-world scenarios. With a solid foundation in SQL and a growing proficiency in Python, I aim to build projects that showcase my ability to analyze data and derive meaningful insights to solve complex problems. My goal is to leverage my expertise in SQL and Python to contribute effectively to data-driven decision-making processes.
