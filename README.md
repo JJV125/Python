@@ -33,7 +33,8 @@ Through this course, I gained a strong foundation in Python and applied data sci
 - **Code:** [council_budget_analysis.py](scripts/council_budget_analysis.py)
 - **Data:** [council-budget-21-22.csv](data/council-budget-21-22.csv)
 
-[View Project](link-to-project-1)
+[View Project](https://github.com/JJV125/Python/tree/main/council_budget)
+
 
 ### Project 2: Title
 
